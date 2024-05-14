@@ -1,26 +1,10 @@
-# COMM4190 Spring 2024 - Research Project
+# COMM4190 Spring 2024 - Tutor vs LLM Research Project
 
-* Use this repository for your Research Project
+# Emmy Keogh
 
+Welcome to my Tutor vs. Large Language Models Research Project for Communication 4190: Talking with AI; Computational and Communication Approaches. In this repository, you will find my process of examining a specific communicative context (in this case, the relationship and communication between a tutor and a middle school student) and exploring how LLMs might be used in this context in the future. I will also discuss the associated implications. This scenario came to mind because I have witnessed the transition of tutoring from an in-person experience to virtual options, and now, with Artificial Intelligence models providing answers at the tips of their fingers, it seems logical that LLMs will become the next tutors. However, the complexity of maintaining a relationship of trust and recognition with a tutor, alongside the challenge of not immediately sharing answers, will be difficult for these LLMs. Please check out the links for my final paper, annotated bibliography, and prompts with LLMs below. Thank you and enjoy!
 
-### Overview
-
-* The focus of this project is to either:
-  1. Select a theoretical communication framework (e.g. Accomodation Theory) developed to explain human communication behavior and explore its implications for communicating with (in both senses) an LLM.
-  2. Examine a specific communicative context or example (e.g. political debate, interaction between customer and service representive, a messaging campaign in health communication, etc.) and explore whether and how LLMs might be used and the associated implications.
- 
-     
-* Write a paper/report in Markdown using Zotero citations.
-
-
-### Method
-
-* Add notebooks, Markdown files, your BibTex bibliography file, PDFs, images etc. to the repo related to your project.
-* The report should be in a Notebook and use the citation extension of JupyterLab to add citations.
-* You can render the Notebook to PDF using "Save and Export as" function in JupyterLab.
-* You make have additional notebooks or other files to show your empirical LLM work.
-
----
-
-### DELETE THE ABOVE CONTENT AND USE THIS FILE TO PROVIDE A DESCRIPTION AND OVERVIEW OF YOUR PROJECT
+* [Final Paper](FinalPaper.ipynb)
+* [Annotated Bibliography](Bibliography.ipynb)
+* [Prompting](Prompting.ipynb)
 
